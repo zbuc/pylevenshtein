@@ -1,0 +1,3 @@
+A python extension supplying a fast C implementation of the Levenshtein
+edit distance algorithm. Undertaken mostly as an exercise in creating a 
+Python extension.
